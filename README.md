@@ -15,4 +15,4 @@ $ npm run start
 ## Copyrights
 This is a public project that mean anyone can use this project for your working
 
-Copyright (c) 2022 Navit Choudhary
+Copyright (c) 2024 Saqib Hammad
