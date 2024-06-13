@@ -15,4 +15,8 @@ $ npm run start
 ## Copyrights
 This is a public project that mean anyone can use this project for your working
 
+<<<<<<< HEAD
 Copyright (c) 2022 Navit Choudhary
+=======
+Copyright (c) 2024 Saqib Hammad
+>>>>>>> 44ab0caef8df24534d61bc2802786745cf60fed8
