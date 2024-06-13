@@ -1,5 +1,12 @@
 # sit725-2022-t1-prac5
-This is a very basic node express application that host a web application. This aplication tries to demonstrate a creation of very simple express app and tries to create a few api's to bring some changes in data.
+The Model represents the application's data and business logic. It encapsulates the data and
+provides methods for manipulating and accessing it.
+The View is responsible for displaying the application's user interface. It presents the data from the
+  Model to the user and captures user input.
+The Controller acts as an intermediary between the Model and the View. It receives user input from
+the View, updates the Model accordingly, and instructs the View to display any changes in the Model.
+  By using the MVC pattern, applications become more modular, maintainable, and scalable. It
+promotes code reusability, separation of concerns, and easy collaboration within development teams.
 
 ## Pre-requisite
 
@@ -15,8 +22,6 @@ $ npm run start
 ## Copyrights
 This is a public project that mean anyone can use this project for your working
 
-<<<<<<< HEAD
-Copyright (c) 2022 Navit Choudhary
-=======
+<<<<<<<<<<< HEAD >>>>>>>>>>>>>>>>>
 Copyright (c) 2024 Saqib Hammad
->>>>>>> 44ab0caef8df24534d61bc2802786745cf60fed8
+==================================
